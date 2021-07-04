@@ -5,5 +5,10 @@
 <b>onOptionsItemSelected() :</b> kullanıcı seçenekler menüsünden bir öğe seçtiğinde yürütülür.
 </p><br>
 <h2>Ilk aktivite:
-
+![firstActivity](https://github.com/isilay-subasi/Switch-Between-Activities/blob/main/images/firsActivitiy.PNG)
+  
+</h2><br>
+<h2>Ikinci aktivite:
+![secondActivity](https://github.com/isilay-subasi/Switch-Between-Activities/blob/main/images/secondActivity.PNG)
+  
 </h2>
