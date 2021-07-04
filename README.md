@@ -19,5 +19,14 @@
 # Aktiviteler Arası Veri Aktarımı
 ## Veriler, onu başlatan Intent nesnesi aracılığıyla başka bir Aktiviteye iletilir.
 ## Yaptığımız şey, değeri ve gerçek değeri tanımlayan bir anahtar olmak üzere iki parametre alan çeşitli<b> putExtra() </b>yöntemlerini kullanarak Intent içinde iletmek istediğimiz değerleri paketlemektir
-- Intentle gelen verileri almak için de diğer aktivitede <b>getStringExtra()</b> kullanılır.
+- Intentle gelen verileri almak için de diğer aktivitede <b>getStringExtra()</b> kullanılır.<br>
+
+# MainActivityde intent ile diğer aktiviteye veri taşıma ve diğer aktiviteye geçmek.
+
+
+![firstCode](https://github.com/isilay-subasi/Switch-Between-Activities/blob/main/images/firstCode.PNG)
+
+# Diğer aktiviteden gelen verileri almak için getIntent() metodu kullanılır.
+
+![secondCode](https://github.com/isilay-subasi/Switch-Between-Activities/blob/main/images/secondCode.PNG)
 
